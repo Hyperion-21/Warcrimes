@@ -65,7 +65,7 @@
         "explodeHP": 40,
         "explodeDmg": 40,
         "weaponAppearance": {
-            "shot": {  },
+            "shot": { "src": "warcrime_spritesheet", "x": 96, "y": 0, "w": 54, "h": 92 },
             "barrel": { "src": "warcrime_spritesheet", "x": 64, "y": 0, "w": 30, "h": 57},
             "barrelX": 17,
             "barrelY": 3,
