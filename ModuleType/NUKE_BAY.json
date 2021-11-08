@@ -46,8 +46,8 @@
         "blastSplashRadius": 50,
         "penDmg": 0,
         "fireArc": { "direction": "down", "degrees": 10 },
-        "muzzleCenterX": 1,
-        "muzzleCenterY": 0.7,
+        "muzzleCenterX": 2,
+        "muzzleCenterY": 1.96875,
         "muzzleLength": 0,
         "optimumRange": 500,
         "hitSound": {
@@ -65,8 +65,8 @@
         "explodeHP": 40,
         "explodeDmg": 40,
         "weaponAppearance": {
-            "shot": { "src": "warcrime_spritesheet", "x": 96, "y": 0, "w": 54, "h": 92 },
-            "barrel": { "src": "warcrime_spritesheet", "x": 64, "y": 0, "w": 30, "h": 57},
+            "shot": { "src": "warcrime_spritesheet", "x": 0, "y": 96, "w": 92, "h": 54 },
+            "barrel": { "src": "warcrime_spritesheet", "x": 0, "y": 64, "w": 57, "h": 30},
             "barrelX": 17,
             "barrelY": 3,
             "onlyShowBarrelIfLoaded": true,
