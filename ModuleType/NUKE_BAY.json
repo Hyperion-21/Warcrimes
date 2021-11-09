@@ -38,7 +38,7 @@
         "recommendedCrew": 4,
         "bottomOnly": true,
         "isExplosive": true,
-        "shotSpeed": 0.3,
+        "shotSpeed": 0.075,
         "canResupplyInCombat": false,
         "muzzleFlash": false,
         "obeysFireMode": false,
@@ -46,9 +46,9 @@
         "inaccuracy": { "base": 0 },
 		"impactForce": 1.0,
         "blastDmg": { "base": 400 },
-        "blastSplashRadius": 500,
+        "blastSplashRadius": 1000,
         "penDmg": 0,
-        "fireArc": { "direction": "down", "degrees": 0 },
+        "fireArc": { "direction": "down", "degrees": 2.5 },
         "muzzleCenterX": 2,
         "muzzleCenterY": 0.84375,
         "muzzleLength": 0,
@@ -73,8 +73,8 @@
             "barrelX": 3.5,
             "barrelY": 16.5,
             "onlyShowBarrelIfLoaded": true,
-            "hitExplosionSize": 15,
-            "missExplosionSize": 15
+            "hitExplosionSize": 25,
+            "missExplosionSize": 25
         }
     }
 ]
