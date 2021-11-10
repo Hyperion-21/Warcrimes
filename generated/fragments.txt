@@ -1,21 +1,57 @@
 NUKE_BAY 0 wreckage
 warcrime_spritesheetFRAGMENTS
 0 0 7 7 8 59
-FLIPPED_NAPALM 0 wreckage
+FLIPPED_NAPALM 0
 warcrime_spritesheetFRAGMENTS
-7 0 50 8 0 26
-NAPALM 0 wreckage
+7 0 8 8 15 9
+FLIPPED_NAPALM 0
 warcrime_spritesheetFRAGMENTS
-57 0 50 8 0 26
+15 0 9 8 31 9
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+24 0 8 8 15 9
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+32 0 9 8 31 9
+FLIPPED_NAPALM 0
+warcrime_spritesheetFRAGMENTS
+41 0 4 13 23 21
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+45 0 4 13 23 21
+FLIPPED_NAPALM 0
+warcrime_spritesheetFRAGMENTS
+49 0 18 14 2 3
+FLIPPED_NAPALM 0
+warcrime_spritesheetFRAGMENTS
+67 0 12 14 14 20
+FLIPPED_NAPALM 0
+warcrime_spritesheetFRAGMENTS
+79 0 11 14 25 20
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+90 0 18 14 2 3
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+108 0 12 14 14 20
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+120 0 11 14 25 20
+FLIPPED_NAPALM 0
+warcrime_spritesheetFRAGMENTS
+131 0 20 15 20 2
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+151 0 20 15 20 2
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-107 0 34 17 15 0
+171 0 34 17 15 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-141 0 4 17 47 0
+205 0 4 17 47 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-145 0 4 34 15 16
+209 0 4 34 15 16
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-149 0 4 34 47 16
+213 0 4 34 47 16
