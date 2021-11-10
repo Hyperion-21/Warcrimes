@@ -3,7 +3,7 @@
         "name": "WAR_CRIMES",
         "sort": 0,
         "tier": 5,
-        "bonuses": [ "NUKE_BAY" ],
+        "bonuses": [ "NUKE_BAY", "NAPALM" ],
         "img": { "src": "warcrime_spritesheet", "x": 64, "y": 0, "w": 64, "h": 64},
         "dependencies": [ 
             "MILITARY_ORGANISATION",

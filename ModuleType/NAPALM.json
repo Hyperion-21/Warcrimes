@@ -6,7 +6,7 @@
     {
         "name": "NAPALM",
         "categories": ["WEAPONS"],
-        "required": "FLAMETHROWERS",
+        "required": "NAPALM",
         "isWeapon": true,
         "w": 3,
         "h": 2,
