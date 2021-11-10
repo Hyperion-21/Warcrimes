@@ -1,15 +1,21 @@
 NUKE_BAY 0 wreckage
 warcrime_spritesheetFRAGMENTS
-0 0 7 6 8 60
+0 0 7 7 8 59
+FLIPPED_NAPALM 0 wreckage
+warcrime_spritesheetFRAGMENTS
+7 0 50 8 0 26
+NAPALM 0 wreckage
+warcrime_spritesheetFRAGMENTS
+57 0 50 8 0 26
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-7 0 34 17 15 0
+107 0 34 17 15 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-41 0 4 17 47 0
+141 0 4 17 47 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-45 0 4 34 15 16
+145 0 4 34 15 16
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-49 0 4 34 47 16
+149 0 4 34 47 16
