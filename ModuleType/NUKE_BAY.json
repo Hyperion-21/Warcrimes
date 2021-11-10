@@ -3,7 +3,7 @@
         "name": "NUKE_BAY",
         "categories": ["WEAPONS"],
         "availableFor": [ "AIRSHIP" ],
-        "required": "BOMBS",
+        "required": "NUKE_BAY",
         "isWeapon": true,
         "w": 4,
         "h": 4,
