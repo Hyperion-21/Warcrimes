@@ -1,0 +1,94 @@
+[
+    {
+        "name": "MUSKET_HP",
+        "deriveFrom": "MUSKET",
+        "blastDmg": 6,
+        "penDmg": 6,
+        "weaponAppearance": {
+            "shot": { "src": "spritesheet", "x": 48, "y": 304, "w": 1, "h": 1 },
+            "barrel": { "src": "warcrime_spritesheet", "x": 48, "y": 256, "w": 23, "h": 6 },
+            "barrelX": 0,
+            "barrelY": 6,
+            "recoil": 3
+        }
+    },
+    {
+        "name": "MUSKET_HP_FLIPPED",
+        "flippedFrom": "MUSKET_HP"
+    },
+    {
+        "name": "MUSKET",
+        "deriveFrom": "MUSKET",
+        "variants": [ "MUSKET_HP" ]
+    },
+    {
+        "name": "RIFLE_HP",
+        "deriveFrom": "RIFLE",
+        "blastDmg": {
+            "base": 4,
+            "ARMOUR_PIERCING_ROUNDS": 6
+        },
+        "penDmg": {
+            "base": 4,
+            "ARMOUR_PIERCING_ROUNDS": 6
+        },
+        "weaponAppearance": {
+            "shot": { "src": "spritesheet", "x": 48, "y": 304, "w": 1, "h": 1 },
+            "barrel": { "src": "warcrime_spritesheet", "x": 48, "y": 256, "w": 23, "h": 6 },
+            "barrelX": 0,
+            "barrelY": 6,
+            "recoil": 2
+        }
+    },
+    {
+        "name": "RIFLE_HP_FLIPPED",
+        "flippedFrom": "RIFLE_HP"
+    },
+    {
+        "name": "RIFLE",
+        "deriveFrom": "RIFLE",
+        "variants": [ "RIFLE_HP" ]
+    },
+    {
+        "name": "GATLING_GUN_HP",
+        "deriveFrom": "GATLING_GUN",
+        "blastDmg": {
+            "base": 4,
+            "ARMOUR_PIERCING_ROUNDS": 6
+        },
+        "penDmg": {
+            "base": 4,
+            "ARMOUR_PIERCING_ROUNDS": 6
+        },
+        "appearance": { "src": "warcrime_spritesheet", "x": 3, "y": 17, "w": 2 },
+        "weaponAppearance": {
+            "back": { "src": "modules", "x": 42, "y": 18 },
+			"shot": { "src": "modules", "x": 144, "y": 456, "w": 2, "h": 1 },
+			"barrelAnimation": {
+				"interval": 15, "msPerShot": 120,
+				"loop": false, "finishLoopCycle": true,
+				"frames": [
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 268, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 283, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 298, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 313, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 328, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 343, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 358, "w": 23, "h": 15 },
+					{ "src": "warcrime_spritesheet", "x": 0, "y": 373, "w": 23, "h": 15 }
+				]
+			},
+			"barrelX": 16, "barrelY": 0,
+			"recoil": 2
+        }
+    },
+    {
+        "name": "GATLING_GUN_HP_FLIPPED",
+        "flippedFrom": "GATLING_GUN_HP"
+    },
+    {
+        "name": "GATLING_GUN",
+        "deriveFrom": "GATLING_GUN",
+        "variants": [ "GATLING_GUN_WDECK", "GATLING_GUN_HP" ]
+    }
+]
