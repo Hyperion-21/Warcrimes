@@ -11,7 +11,7 @@
     {
         "name": "BUNKER_BUSTER",
         "categories": ["WEAPONS"],
-        "required": "TORPEDOES",
+        "required": "BUNKER_BUSTER",
         "isWeapon": true,
         "w": 4,
         "h": 1,
