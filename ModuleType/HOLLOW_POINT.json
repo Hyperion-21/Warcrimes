@@ -13,7 +13,7 @@
         }
     },
     {
-        "name": "MUSKET_HP_FLIPPED",
+        "name": "FLIPPED_MUSKET_HP",
         "flippedFrom": "MUSKET_HP"
     },
     {
@@ -41,7 +41,7 @@
         }
     },
     {
-        "name": "RIFLE_HP_FLIPPED",
+        "name": "FLIPPED_RIFLE_HP",
         "flippedFrom": "RIFLE_HP"
     },
     {
@@ -83,7 +83,7 @@
         }
     },
     {
-        "name": "GATLING_GUN_HP_FLIPPED",
+        "name": "FLIPPED_GATLING_GUN_HP",
         "flippedFrom": "GATLING_GUN_HP"
     },
     {

@@ -1,9 +1,5 @@
 [
     {
-        "name": "FLIPPED_NAPALM",
-        "flippedFrom": "NAPALM"
-    },
-    {
         "name": "NAPALM",
         "categories": ["WEAPONS"],
         "required": "NAPALM",
