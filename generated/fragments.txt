@@ -19,30 +19,42 @@ warcrime_spritesheetFRAGMENTS
 GATLING_GUN_HP 0 wreckage
 warcrime_spritesheetFRAGMENTS
 82 0 8 8 1 10
+FLIPPED_GATLING_GUN_HP 0
+warcrime_spritesheetFRAGMENTS
+90 0 21 9 0 9
+GATLING_GUN_HP 0
+warcrime_spritesheetFRAGMENTS
+111 0 21 9 0 9
+FLIPPED_GATLING_GUN_HP 0
+warcrime_spritesheetFRAGMENTS
+132 0 15 11 19 7
+GATLING_GUN_HP 0
+warcrime_spritesheetFRAGMENTS
+147 0 15 11 19 7
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-90 0 4 13 23 21
+162 0 4 13 23 21
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-94 0 18 14 2 3
+166 0 18 14 2 3
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-112 0 12 14 14 20
+184 0 12 14 14 20
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-124 0 11 14 25 20
+196 0 11 14 25 20
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-135 0 20 15 20 2
+207 0 20 15 20 2
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-155 0 34 17 15 0
+227 0 34 17 15 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-189 0 4 17 47 0
+261 0 4 17 47 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-193 0 4 34 15 16
+265 0 4 34 15 16
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-197 0 4 34 47 16
+269 0 4 34 47 16
