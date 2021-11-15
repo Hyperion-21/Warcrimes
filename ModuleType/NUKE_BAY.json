@@ -57,8 +57,8 @@
         "hitSound": {
             "layers": [
                 {
-                    "variations": ["smexplosion"],
-                    "volume": 1.8,
+                    "variations": ["explosion_3"],
+                    "volume": 5.0,
                     "pitch": {
                         "min": 0.9,
                         "max": 1.1
