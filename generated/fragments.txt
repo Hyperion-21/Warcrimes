@@ -1,72 +1,48 @@
-GATLING_GUN_HP_FLIPPED 0 wreckage
+FLIPPED_GATLING_GUN_HP 0 wreckage
 warcrime_spritesheetFRAGMENTS
-0 0 8 7 1 11
-GATLING_GUN_HP_FLIPPED 0 wreckage
-warcrime_spritesheetFRAGMENTS
-8 0 5 7 8 11
-GATLING_GUN_HP 0 wreckage
-warcrime_spritesheetFRAGMENTS
-13 0 25 7 8 11
-FLIPPED_NAPALM 0
-warcrime_spritesheetFRAGMENTS
-38 0 8 8 15 9
-FLIPPED_NAPALM 0
-warcrime_spritesheetFRAGMENTS
-46 0 9 8 31 9
-GATLING_GUN_HP_FLIPPED 0 wreckage
-warcrime_spritesheetFRAGMENTS
-55 0 20 8 13 10
-NAPALM 0
-warcrime_spritesheetFRAGMENTS
-75 0 8 8 15 9
-NAPALM 0
-warcrime_spritesheetFRAGMENTS
-83 0 9 8 31 9
+0 0 25 7 8 11
 NUKE_BAY 0 wreckage
 warcrime_spritesheetFRAGMENTS
-92 0 7 8 8 58
+25 0 7 7 8 59
 GATLING_GUN_HP 0 wreckage
 warcrime_spritesheetFRAGMENTS
-99 0 8 8 1 10
-FLIPPED_NAPALM 0
+32 0 25 7 8 11
+FLIPPED_GATLING_GUN_HP 0 wreckage
 warcrime_spritesheetFRAGMENTS
-107 0 4 13 23 21
+57 0 8 8 1 10
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-111 0 4 13 23 21
-FLIPPED_NAPALM 0
-warcrime_spritesheetFRAGMENTS
-115 0 18 14 2 3
-FLIPPED_NAPALM 0
-warcrime_spritesheetFRAGMENTS
-133 0 12 14 14 20
-FLIPPED_NAPALM 0
-warcrime_spritesheetFRAGMENTS
-145 0 11 14 25 20
+65 0 8 8 15 9
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-156 0 18 14 2 3
+73 0 9 8 31 9
+GATLING_GUN_HP 0 wreckage
+warcrime_spritesheetFRAGMENTS
+82 0 8 8 1 10
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-174 0 12 14 14 20
+90 0 4 13 23 21
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-186 0 11 14 25 20
-FLIPPED_NAPALM 0
-warcrime_spritesheetFRAGMENTS
-197 0 20 15 20 2
+94 0 18 14 2 3
 NAPALM 0
 warcrime_spritesheetFRAGMENTS
-217 0 20 15 20 2
+112 0 12 14 14 20
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+124 0 11 14 25 20
+NAPALM 0
+warcrime_spritesheetFRAGMENTS
+135 0 20 15 20 2
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-237 0 34 17 15 0
+155 0 34 17 15 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-271 0 4 17 47 0
+189 0 4 17 47 0
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-275 0 4 34 15 16
+193 0 4 34 15 16
 NUKE_BAY 0
 warcrime_spritesheetFRAGMENTS
-279 0 4 34 47 16
+197 0 4 34 47 16
